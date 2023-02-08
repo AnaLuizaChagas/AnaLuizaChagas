@@ -7,8 +7,11 @@
 
 <div> 
   <img height="180em" src="https://github-readme-status.vercel.app/api?username=analuizachagas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=analuizachagas&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuizachagas&layout=compact&theme=tokyonight)
 
 ##
 
