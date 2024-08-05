@@ -1,7 +1,7 @@
 ### Hi, I’m Ana Luiza 👋
 
 - 🔭 I’m currently working on System Analyst 
-- 🌱 I’m currently learning Flutter and BLoC
+- 🌱 I’m currently full stack developer
 - 📫 contact me on email: analuizaachagas2@gmail.com 
 - 😄 Pronouns: She/Her
 
