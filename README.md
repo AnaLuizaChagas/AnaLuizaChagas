@@ -1,4 +1,4 @@
-<img src = "banner" width = "325px" align = "right">
+<img src = "banner.webp" width = "325px" align = "right">
 
 ### Hi, I’m Ana Luiza 👋
 
