@@ -1,3 +1,5 @@
+<img src = "banner.gif" width = "325px"
+
 ### Hi, I’m Ana Luiza 👋
 
 - 🔭 I’m currently working on System Analyst 
