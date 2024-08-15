@@ -1,7 +1,8 @@
 ### Hi, I’m Ana Luiza 👋
 
 - 🔭 I’m currently working on System Analyst 
-- 🌱 I’m currently full stack developer
+- 🌱 I’m currently Full Stack Developer
+- ✍️ I,m graduated in Software Engineering
 - 📫 contact me on email: analuizaachagas2@gmail.com 
 - 😄 Pronouns: She/Her
 
